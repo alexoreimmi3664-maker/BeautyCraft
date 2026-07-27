@@ -444,5 +444,3 @@ An enormous decoration toolkit for builders: the full **Macaw's** furniture, bri
 ## Notes
 
 This pack ships a large library of shaderpacks and resource packs so you can experiment freely — feel free to disable anything you don't use to save disk space and load times. All credit for individual mods, resource packs, and shaders goes to their respective authors on Modrinth.
-
-This pack ships a large library of shaderpacks and resource packs so you can experiment freely — feel free to disable anything you don't use to save disk space and load times. All credit for individual mods, resource packs, and shaders goes to their respective authors on Modrinth.
